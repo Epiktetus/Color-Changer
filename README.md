@@ -2,6 +2,10 @@
 ## Description
 A Dual Universe script for actively changing the colors of lights in nearly any pattern you like.
 
+![Glitchy Lights](Glitch.gif)Glitchy Lights
+![Police Red and Blue](Police.gif)Police Red and Blue
+![Slow Rainbow](Rainbow.gif)Slow Rainbow
+
 ## Installation
 1. Pick a style from the Premade folder and copy the contents.
 2. Right click on a Programming Board and choose Paste from the Advanced menu
