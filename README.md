@@ -2,11 +2,11 @@
 ## Description
 A Dual Universe script for actively changing the colors of lights in nearly any pattern you like.
 
-![Police Red and Blue](Police.gif)
+![Police Red and Blue](Police.gif)  
 Police Red and Blue switches between red and blue 4 times a second
-![Slow Rainbow](Rainbow.gif)
+![Slow Rainbow](Rainbow.gif)  
 Slow Rainbow slowly shifts through many different colors by making small changes 10 times a second
-![Glitchy Lights](Glitch.gif)
+![Glitchy Lights](Glitch.gif)  
 Glitchy Lights switches from 0 to 255 brightness and back at random intervals between 0 and 0.2 seconds imitating a malfunctioning light
 
 ## Installation
